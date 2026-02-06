@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🧮 Day 01 – Simple Calculator (Java)
 
@@ -6,6 +6,7 @@
 
 <img src="assets\output.png" alt="Output Of Simple Calculator" width="650"/>
 
+<br>
 ---
 
 A clean, console-based **Simple Calculator** built using Core Java.  
