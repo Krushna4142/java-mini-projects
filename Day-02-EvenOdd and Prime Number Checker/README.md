@@ -74,14 +74,15 @@ I built a **console-based Java application** that:
 
 ## 📁 Folder Structure
 
-```text
-Day-02-Even-Odd-Prime-Checker/
-├── README.md
-├── NOTES.md
-├── assets/
-│   └── output.png
-└── src/
+
+Day-02-Even-Odd-Prime-Checker/<br>
+├── README.md<br>
+├── NOTES.md<br>
+├── assets/<br>
+│   └── output.png<br>
+└── src/<br>
     └── NumberChecker.java
+
 ⚙️ Program Logic Breakdown
 Even / Odd Check
 A number is Even if it is divisible by 2
@@ -106,7 +107,7 @@ This approach keeps the logic simple and beginner-friendly.
 
 <img src="./assets/output.png" alt="Terminal output Preview" width="650" align="center"/>
 
-📝 Notes & Observations
+<h2>📝 Notes & Observations</h2>
 Conditional logic becomes easier with clear problem breakdown
 
 Prime number checking improves loop understanding
@@ -115,7 +116,7 @@ Small programs like this build strong confidence
 
 Writing readable conditions matters more than clever tricks
 
-💡 Key Takeaways
+<h2>💡 Key Takeaways</h2>
 Mastering basics avoids future logical bugs
 
 Even simple programs can be interview-relevant
@@ -124,7 +125,7 @@ Clean logic > complex code
 
 Conditions and loops are the backbone of Java
 
-🎯 Interview Preparation (Day 02 Level)
+<h2>🎯 Interview Preparation (Day 02 Level)</h2>
 Q1. How do you check if a number is even or odd in Java?
 Using the modulus operator %. If number % 2 == 0, it is even.
 
