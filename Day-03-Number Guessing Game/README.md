@@ -108,8 +108,7 @@ This logic demonstrates real-time decision making.
 
 👉 View Output Screenshot
 
-(Add a screenshot showing multiple guesses and final success message)
-
+<img src="assets\output.png" alt="Output Of Number Guessing game" width="650"/>
 <h2>📝 Notes & Observations</h2>
 Loops allow programs to repeat until a condition is met
 
