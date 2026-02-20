@@ -1,8 +1,3 @@
-Here are your Day 11 remaining files — in the same clean, interview-ready, beginner-friendly, repo-standard format ✅
-
-You can copy-paste directly.
-
-💻 PasswordValidator.java
 import java.util.Scanner;
 
 public class PasswordValidator {
@@ -27,14 +22,11 @@ public class PasswordValidator {
 
             if (ch >= 'A' && ch <= 'Z') {
                 hasUpper = true;
-            }
-            else if (ch >= 'a' && ch <= 'z') {
+            } else if (ch >= 'a' && ch <= 'z') {
                 hasLower = true;
-            }
-            else if (ch >= '0' && ch <= '9') {
+            } else if (ch >= '0' && ch <= '9') {
                 hasDigit = true;
-            }
-            else {
+            } else {
                 hasSpecial = true;
             }
         }
