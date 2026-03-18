@@ -28,6 +28,7 @@
 
 ---
 
+
 ## 🎯 Goal of the Day
 
 The goal of **Day 23** is to build an **Employee Payroll System** that calculates employee salaries using real-world business logic.
