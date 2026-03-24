@@ -150,17 +150,6 @@ Day-XX-Project-Name/
 
 ---
 
-# 💎 Extra Ideas To Stand Out
-
-Every 5–6 Days Add:
-
-- 📊 Visual Progress Graph (GitHub style)
-- 🧠 “What I Learned This Week” file
-- 🏅 Milestone Achievement Badge
-- 📝 Mistakes & Improvements Log
-- 🎯 Real Interview Questions Related to Projects
-- 🔍 Code Review Version (Improved Code)
-
 ---
 
 # 📊 Progress Tracker
