@@ -31,28 +31,28 @@ A structured 30-day Java project journey focused on building real-world logic, s
 
 # 📋 Table of Contents
 
-1. 📘 Introduction
-2. 🎯 Goals & Outcomes
-3. ⚡ Recruiter Quick Scan
-4. 🏆 Achievements
-5. 📊 Progress Visualization
-6. 🧠 System Design Evolution
-7. 🗂️ Repository Structure
-8. 📚 30-Day Project Roadmap
-9. 🧠 Concept Mapping
-10. ⭐ What Makes This Repository Different
-11. 🛠️ How to Use This Repository
-12. 🔁 Learning Philosophy
-13. 💼 Interview Relevance
-14. 📄 Resume Ready Points
-15. ⚠️ Mistakes & Learnings
-16. 📅 Consistency Proof
-17. 🔮 What I Would Do Next
-18. 📊 Repository Stats
-19. 👨‍💻 Author
-20. 📜 License
-21. 🤝 Contributions
-22. 🚀 Closing Note
+1. 📘 [Introduction](#-introduction)  
+2. 🎯 [Goals & Outcomes](#-goals--outcomes)  
+3. ⚡ [Recruiter Quick Scan](#-recruiter-quick-scan)  
+4. 🏆 [Achievements](#-achievements)  
+5. 📊 [Progress Visualization](#-progress-visualization)  
+6. 🧠 [System Design Evolution](#-system-design-evolution)  
+7. 🗂️ [Repository Structure](#️-repository-structure)  
+8. 📚 [30-Day Project Roadmap](#-30-day-project-roadmap)  
+9. 🧠 [Concept Mapping](#-concept-mapping)  
+10. ⭐ [What Makes This Repository Different](#-what-makes-this-repository-different)  
+11. 🛠️ [How to Use This Repository](#️-how-to-use-this-repository)  
+12. 🔁 [Learning Philosophy](#-learning-philosophy)  
+13. 💼 [Interview Relevance](#-interview-relevance)  
+14. 📄 [Resume Ready Points](#-resume-ready-points)  
+15. ⚠️ [Mistakes & Learnings](#️-mistakes--learnings)  
+16. 📅 [Consistency Proof](#-consistency-proof)  
+17. 🔮 [What I Would Do Next](#-what-i-would-do-next)  
+18. 📊 [Repository Stats](#-repository-stats)  
+19. 👨‍💻 [Author](#-author)  
+20. 📜 [License](#-license)  
+21. 🤝 [Contributions](#-contributions)  
+22. 🚀 [Closing Note](#-closing-note)
 
 ---
 
@@ -202,53 +202,62 @@ Each day includes:
 
 # 📚 30-Day Project Roadmap
 
+### 🏷️ Difficulty Legend
+
+🟢 **Easy** → Basic logic & fundamentals  
+🟡 **Medium** → Problem-solving & structured logic  
+🔴 **Hard** → System design & multi-feature logic  
+
+---
+
 ## 🔹 Phase 1 — Fundamentals
 
-- [Day 01 – Calculator](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-01) 🟢
-- [Day 02 – Even/Odd/Prime](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-02) 🟢
-- [Day 03 – Guessing Game](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-03) 🟢
-- [Day 04 – Palindrome](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-04) 🟢
-- [Day 05 – Interest Calculator](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-05) 🟢
-- [Day 06 – ATM Simulation](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-06) 🟡
-- [Day 07 – Grade Calculator](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-07) 🟢
+Day 01 → [Simple Calculator](./Day-01/README.md) 🟢  
+Day 02 → [Even-Odd-Prime Checker](./Day-02/README.md) 🟢  
+Day 03 → [Number Guessing Game](./Day-03/README.md) 🟢  
+Day 04 → [Palindrome Checker](./Day-04/README.md) 🟢  
+Day 05 → [Simple Interest Calculator](./Day-05/README.md) 🟢  
+Day 06 → [ATM Simulation](./Day-06/README.md) 🟡  
+Day 07 → [Student Grade Calculator](./Day-07/README.md) 🟢  
 
 ---
 
 ## 🔹 Phase 2 — Logic Building
 
-- [Day 08 – Fibonacci](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-08) 🟡
-- [Day 09 – Pattern Printing](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-09) 🟡
-- [Day 10 – Sorting](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-10) 🟡
-- [Day 11 – Password Validator](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-11) 🟡
-- [Day 12 – Bank System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-12) 🟡
-- [Day 13 – Contact Book](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-13) 🟡
-- [Day 14 – Quiz App](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-14) 🟡
+Day 08 → [Factorial & Fibonacci](./Day-08/README.md) 🟡  
+Day 09 → [Pattern Printing](./Day-09/README.md) 🟡  
+Day 10 → [Number Sorting](./Day-10/README.md) 🟡  
+Day 11 → [Password Validator](./Day-11/README.md) 🟡  
+Day 12 → [Bank Account System](./Day-12/README.md) 🟡  
+Day 13 → [Contact Book](./Day-13/README.md) 🟡  
+Day 14 → [Mini Quiz App](./Day-14/README.md) 🟡  
 
 ---
 
-## 🔹 Phase 3 — Real Systems
+## 🔹 Phase 3 — Real-World Simulations
 
-- [Day 15 – Library System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-15) 🟡
-- [Day 16 – Expense Tracker](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-16) 🟡
-- [Day 17 – Student Records](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-17) 🟡
-- [Day 18 – Login System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-18) 🟡
-- [Day 19 – File Handling](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-19) 🟡
-- [Day 20 – Banking System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-20) 🔴
-- [Day 21 – Tic Tac Toe](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-21) 🔴
+Day 15 → [Library Management System](./Day-15/README.md) 🟡  
+Day 16 → [Expense Tracker](./Day-16/README.md) 🟡  
+Day 17 → [Student Record System](./Day-17/README.md) 🟡  
+Day 18 → [Login System](./Day-18/README.md) 🟡  
+Day 19 → [File Handling Basics](./Day-19/README.md) 🟡  
+Day 20 → [Mini Banking System](./Day-20/README.md) 🔴  
+Day 21 → [Tic Tac Toe](./Day-21/README.md) 🔴  
 
 ---
 
-## 🔹 Phase 4 — Advanced Systems
+## 🔹 Phase 4 — Structured Systems
 
-- [Day 22 – Inventory System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-22) 🔴
-- [Day 23 – Payroll System](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-23) 🔴
-- [Day 24 – File Contact Book](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-24) 🔴
-- [Day 25 – Multi-User ATM](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-25) 🔴
-- [Day 26 – E-Commerce Console](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-26) 🔴
-- [Day 27 – Chat Simulation](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-27) 🔴
-- [Day 28 – Expense Report Generator](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-28) 🔴
-- [Day 29 – Capstone Project](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-29) 🔴
-- [Day 30 – Final Refactor](https://github.com/YOUR_USERNAME/Java-30-Days-Mini-Projects/tree/main/Day-30) 🔴
+Day 22 → [Inventory System](./Day-22/README.md) 🔴  
+Day 23 → [Employee Payroll System](./Day-23/README.md) 🔴  
+Day 24 → [File-Based Contact Book](./Day-24/README.md) 🔴  
+Day 25 → [Multi-User ATM](./Day-25/README.md) 🔴  
+Day 26 → [Mini E-Commerce Console](./Day-26/README.md) 🔴  
+Day 27 → [Chat Simulation](./Day-27/README.md) 🔴  
+Day 28 → [Expense Report Generator](./Day-28/README.md) 🔴  
+Day 29 → [Capstone Mini Project](./Day-29/README.md) 🔴  
+Day 30 → [Final System Refactor](./Day-30/README.md) 🔴  
+
 
 ---
 
