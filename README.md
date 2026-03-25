@@ -212,52 +212,51 @@ Each day includes:
 
 ## 🔹 Phase 1 — Fundamentals
 
-Day 01 → [Simple Calculator](./Day-01/README.md) 🟢  
-Day 02 → [Even-Odd-Prime Checker](./Day-02/README.md) 🟢  
-Day 03 → [Number Guessing Game](./Day-03/README.md) 🟢  
-Day 04 → [Palindrome Checker](./Day-04/README.md) 🟢  
-Day 05 → [Simple Interest Calculator](./Day-05/README.md) 🟢  
-Day 06 → [ATM Simulation](./Day-06/README.md) 🟡  
-Day 07 → [Student Grade Calculator](./Day-07/README.md) 🟢  
+Day 01 → [Simple Calculator](./Day-01-Simple-Calculator/README.md) 🟢  
+Day 02 → [Even-Odd & Prime Checker](./Day-02-EvenOdd%20and%20Prime%20Number%20Checker/README.md) 🟢  
+Day 03 → [Number Guessing Game](./Day-03-Number%20Guessing%20Game/README.md) 🟢  
+Day 04 → [Palindrome Checker](./Day-04%20-Palindrome%20Checker/README.md) 🟢  
+Day 05 → [Simple Interest Calculator](./Day-05-Simpl%20Interest%20Calculator/README.md) 🟢  
+Day 06 → [ATM Machine Simulation](./Day-06-ATM%20Machine%20Simulation/README.md) 🟡  
+Day 07 → [Student Grade Calculator](./Day-07%20-%20Student%20Grade%20Calculator/README.md) 🟢  
 
 ---
 
 ## 🔹 Phase 2 — Logic Building
 
-Day 08 → [Factorial & Fibonacci](./Day-08/README.md) 🟡  
-Day 09 → [Pattern Printing](./Day-09/README.md) 🟡  
-Day 10 → [Number Sorting](./Day-10/README.md) 🟡  
-Day 11 → [Password Validator](./Day-11/README.md) 🟡  
-Day 12 → [Bank Account System](./Day-12/README.md) 🟡  
-Day 13 → [Contact Book](./Day-13/README.md) 🟡  
-Day 14 → [Mini Quiz App](./Day-14/README.md) 🟡  
+Day 08 → [Factorial & Fibonacci](./Day-08-Factorial%20%26%20Fibonacci/README.md) 🟡  
+Day 09 → [Pattern Printing](./Day-09-Pattern%20Printing/README.md) 🟡  
+Day 10 → [Number Sorting](./Day-10-Number%20Sorting/README.md) 🟡  
+Day 11 → [Password Validator](./Day-11-Password%20Validator/README.md) 🟡  
+Day 12 → [Bank Account System](./Day-12-Bank%20Account%20System/README.md) 🟡  
+Day 13 → [Contact Book](./Day-13-Contact%20Book/README.md) 🟡  
+Day 14 → [Mini Quiz App](./Day-14-Mini%20Quiz%20App/README.md) 🟡  
 
 ---
 
 ## 🔹 Phase 3 — Real-World Simulations
 
-Day 15 → [Library Management System](./Day-15/README.md) 🟡  
-Day 16 → [Expense Tracker](./Day-16/README.md) 🟡  
-Day 17 → [Student Record System](./Day-17/README.md) 🟡  
-Day 18 → [Login System](./Day-18/README.md) 🟡  
-Day 19 → [File Handling Basics](./Day-19/README.md) 🟡  
-Day 20 → [Mini Banking System](./Day-20/README.md) 🔴  
-Day 21 → [Tic Tac Toe](./Day-21/README.md) 🔴  
+Day 15 → [Library Management System](./Day-15-Library%20Managment/README.md) 🟡  
+Day 16 → [Expense Tracker](./Day-16-Expense-Tracker/README.md) 🟡  
+Day 17 → [Student Record System](./Day-17-Student-Record-System/README.md) 🟡  
+Day 18 → [Login System](./Day-18-Login%20System/README.md) 🟡  
+Day 19 → [File Handling Basics](./Day-19-File%20Handling%20Basics/README.md) 🟡  
+Day 20 → [Mini Banking System](./Day-20-Mini%20Banking%20System/README.md) 🔴  
+Day 21 → [Tic Tac Toe Game](./Day-21-Tic-Tac-Toe-Game/README.md) 🔴  
 
 ---
 
 ## 🔹 Phase 4 — Structured Systems
 
-Day 22 → [Inventory System](./Day-22/README.md) 🔴  
-Day 23 → [Employee Payroll System](./Day-23/README.md) 🔴  
-Day 24 → [File-Based Contact Book](./Day-24/README.md) 🔴  
-Day 25 → [Multi-User ATM](./Day-25/README.md) 🔴  
-Day 26 → [Mini E-Commerce Console](./Day-26/README.md) 🔴  
-Day 27 → [Chat Simulation](./Day-27/README.md) 🔴  
-Day 28 → [Expense Report Generator](./Day-28/README.md) 🔴  
-Day 29 → [Capstone Mini Project](./Day-29/README.md) 🔴  
-Day 30 → [Final System Refactor](./Day-30/README.md) 🔴  
-
+Day 22 → [Inventory System](./Day-22-Inventory-System/README.md) 🔴  
+Day 23 → [Employee Payroll System](./Day-23-Employee-Payroll-System/README.md) 🔴  
+Day 24 → [File-Based Contact Book](./Day-24-File-Based-Contact-Book/README.md) 🔴  
+Day 25 → [Multi-User ATM](./Day-25-Multi-User-ATM/README.md) 🔴  
+Day 26 → [Mini E-Commerce Console](./Day-26-Mini-E-Commerce-Console/README.md) 🔴  
+Day 27 → [Chat Simulation](./Day-27-Chat-Simulation/README.md) 🔴  
+Day 28 → [Expense Report Generator](./Day-28-Expense-Report-Generator/README.md) 🔴  
+Day 29 → [Capstone Mini Project](./Day-29-Capstone-Mini-Project/README.md) 🔴  
+Day 30 → [Final System Refactor](./Day-30-Final-System-Refactor/README.md) 🔴  
 
 ---
 
