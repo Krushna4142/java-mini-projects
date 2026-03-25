@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Java 30 Days Mini Projects Challenge"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - given-names: "Krushna"
+    family-names: "Nawale"
+    affiliation: "Computer Engineering Student"
+date-released: 2026-03-25
+repository-code: "https://github.com/Krushna4142/Java-30-Days-Mini-Projects"
+license: MIT
+keywords:
+  - Java
+  - Mini Projects
+  - Learning
+  - OOP
+  - System Design
+  - Data Structures
